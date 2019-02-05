@@ -1,0 +1,28 @@
+http://beej.us/guide/bgnet/html/single/bgnet.html
+
+MinGW
+Install and configure: http://www.mingw.org/wiki/Getting_Started
+Packages for gcc: http://www.mingw.org/wiki/howto_install_the_mingw_gcc_compiler_suite
+MinGW or Cygwin?: https://stackoverflow.com/questions/771756/what-is-the-difference-between-cygwin-and-mingw
+
+Cygwin
+Install and configure: https://www.cygwin.com/
+Cygstart: https://dzone.com/articles/parallel-tcpip-socket-server-with-multi-threading
+
+Threads
+Examples:
+https://computing.llnl.gov/tutorials/pthreads/#Management
+https://stackoverflow.com/questions/29625053/c-chat-program-get-an-error-segmentation-fault-core-dumped/29625530#29625530
+https://stackoverflow.com/questions/21473799/understanding-multithread-server-client-prog-in-c
+https://github.com/uchicago-cs/cmsc23300/blob/master/samples/sockets/server-pthreads.c
+https://dzone.com/articles/parallel-tcpip-socket-server-with-multi-threading
+
+pthread:
+pthread_create: https://docs.oracle.com/cd/E19253-01/816-5137/tlib-24/index.html
+pthread_join: https://www.ibm.com/support/knowledgecenter/en/SSLTBW_2.3.0/com.ibm.zos.v2r3.bpxbd00/ptjoin.htm
+pthread_create: https://www.ibm.com/support/knowledgecenter/en/SSLTBW_2.3.0/com.ibm.zos.v2r3.bpxbd00/ptcrea.htm
+pthread_mutex: https://www.cs.cmu.edu/afs/cs/academic/class/15492-f07/www/pthreads.html#SYNCHRONIZATION
+pthread_mutex: https://www.ibm.com/support/knowledgecenter/en/SSLTBW_2.3.0/com.ibm.zos.v2r3.bpxbd00/ptmlock.htm
+
+
+
